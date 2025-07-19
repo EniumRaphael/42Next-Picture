@@ -1,5 +1,7 @@
 #!/bin/bash
 
+set -x
+
 git clone https://github.com/iadjedj/onboarding_camera_script ./tmp
 
 mv ./tmp/* ./ && rm -rf ./tmp
