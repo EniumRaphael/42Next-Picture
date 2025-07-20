@@ -10,4 +10,4 @@ source ./.venv/bin/activate
 
 pip install -r requirements.txt
 
-echo 'You can now start the script with the command => \n\t source ./.venv/bin/activate && python3 main.py'
+echo '\n\nYou can now start the script with the command:\n\tsource ./.venv/bin/activate && python3 main.py'
