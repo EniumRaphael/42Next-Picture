@@ -13,3 +13,5 @@ __To use this installation script:__
 curl -L s.42l.fr/onboarding
 ```
 Thanks to `lpolizzi` who made the script!
+
+[lpolizzi's Github](https://github.com/LeoPolizzi/LeoPolizzi)
